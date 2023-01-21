@@ -1,0 +1,17 @@
+#https://www.youtube.com/watch?v=AGtae4L5BbI
+#https://www.youtube.com/watch?v=N-PB-HMFmdo
+https://www.youtube.com/playlist?list=PLe_DUrcBPdbJCPmrGbKvmNjmoG5muUlRG
+https://www.youtube.com/watch?v=eIpPJfj6j7A
+https://www.youtube.com/watch?v=GTpbQ95ViT8
+https://www.youtube.com/watch?v=Is4hHfHDN-k
+https://www.youtube.com/watch?v=rxF-tNfYUto (search result)
+https://www.youtube.com/watch?v=wY_BNsxCEi4 (pagination with bootstrap)
+https://www.youtube.com/watch?v=6-XXvUENY_8 (Style Django forms with bootstrap)
+https://www.youtube.com/watch?v=Pilzks6HeIg (searchable dropdown)
+
+https://select2.github.io/select2-bootstrap-theme/4.0.3.html
+https://select2.github.io/select2-bootstrap-theme/4.0.3.html
+
+https://django-select2.readthedocs.io/en/latest/
+
+
