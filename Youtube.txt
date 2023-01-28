@@ -14,4 +14,5 @@ https://select2.github.io/select2-bootstrap-theme/4.0.3.html
 
 https://django-select2.readthedocs.io/en/latest/
 
-
+https://github.com/mrkaskani
+https://github.com/taesiri
